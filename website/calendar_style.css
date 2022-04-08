@@ -78,7 +78,6 @@ header {
 	border: 1px solid #bd3e35;
 	color: #000;
 	text-decoration: none;
-	font-weight: bold;
 }
 #calendar .event-open {
 	clear: both;
@@ -93,13 +92,14 @@ header {
 	border: 1px solid #439c50;
 	color: #000;
 	text-decoration: none;
-	font-weight: bold;
+	
 }
 
 #calendar .event-desc {
 	color: #000;
 	margin: 3px 0 7px 0;
 	text-decoration: none;	
+	font-weight: bold;
 }
 
 #calendar .other-month {
