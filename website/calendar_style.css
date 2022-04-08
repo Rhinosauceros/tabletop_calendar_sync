@@ -74,7 +74,7 @@ header {
 	margin-top: 40px;
 	margin-bottom: 5px;
 	line-height: 14px;
-	background: #bd5851;
+	background: rgb(189, 88, 81, .5);
 	border: 1px solid #bd3e35;
 	color: #333;
 	text-decoration: none;
@@ -88,7 +88,7 @@ header {
 	margin-top: 40px;
 	margin-bottom: 5px;
 	line-height: 14px;
-	background: #5a9c64;
+	background: rgb(96, 161, 106, .5);
 	border: 1px solid #439c50;
 	color: #333;
 	text-decoration: none;
