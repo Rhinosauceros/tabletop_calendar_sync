@@ -60,7 +60,7 @@ header {
 	text-align: center;
 	margin-bottom: 5px;
 	padding: 4px;
-	color: #333;
+	color: #666;
 	width: 20px;
 	float: right;
 }
@@ -76,7 +76,7 @@ header {
 	line-height: 14px;
 	background: rgb(189, 88, 81, .5);
 	border: 1px solid #bd3e35;
-	color: #333;
+	color: #666;
 	text-decoration: none;
 }
 #calendar .event-open {
@@ -90,7 +90,7 @@ header {
 	line-height: 14px;
 	background: rgb(96, 161, 106, .5);
 	border: 1px solid #439c50;
-	color: #333;
+	color: #666;
 	text-decoration: none;
 }
 
